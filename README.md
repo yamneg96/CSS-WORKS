@@ -11,46 +11,46 @@ Each animation project is organized in its own folder with the following structu
 
 /CSS-WORKS/Work1/
 
-        index.html
+    index.html
 
-        styles.css
+    styles.css
 
-        README-Work1.md
+    README-Work1.md
 
 
-    /CSS-WORKS/Work2/
+/CSS-WORKS/Work2/
 
-        index.html
+    index.html
 
-        styles.css
+    styles.css
 
-        README-Work2.md
+    README-Work2.md
 
-    /CSS-WORKS/Work3/
+/CSS-WORKS/Work3/
 
-        index.html
+    index.html
 
-        styles.css
+    styles.css
 
-        README-Work3.md
+    README-Work3.md
 
-    /CSS-WORKS/Work4/
+/CSS-WORKS/Work4/
 
-        index.html
+    index.html
 
-        styles.css
+    styles.css
 
-        README-Work4.md
-        
-    /CSS-WORKS/Work5/
+    README-Work4.md
+    
+/CSS-WORKS/Work5/
 
-        index.html
+    index.html
 
-        styles.css
+    styles.css
 
-        README-Work5.md
+    README-Work5.md
 
-    README.md
+README.md
 
 ---
 
