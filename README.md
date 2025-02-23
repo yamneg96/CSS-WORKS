@@ -89,9 +89,13 @@ README.md
 ## 📌 List of Projects
 
 ✅ 1. Work1 – Hover & click animations with text details.
+
 🔄 2. Work2 – (Coming soon...)
+
 🔄 3. Work3 – (Coming soon...)
+
 🔄 4. Work4 – (Coming soon...)
+
 🔄 5. Work5 – (Coming soon...)
 
 Stay tuned for more! 🚀
