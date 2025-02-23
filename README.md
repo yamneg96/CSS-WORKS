@@ -9,27 +9,47 @@ The goal is to experiment with smooth transitions, hover effects, and dynamic an
 
 Each animation project is organized in its own folder with the following structure:
 
-/CSS-WORKS
-    Work1/
+/CSS-WORKS/Work1/
+
         index.html
+
         styles.css
+
         README-Work1.md
-    Work2/
+
+
+    /CSS-WORKS/Work2/
+
         index.html
+
         styles.css
+
         README-Work2.md
-    Work3/
+
+    /CSS-WORKS/Work3/
+
         index.html
+
         styles.css
+
         README-Work3.md
-    Work4/
+
+    /CSS-WORKS/Work4/
+
         index.html
+
         styles.css
+
         README-Work4.md
-    Work5/
+        
+    /CSS-WORKS/Work5/
+
         index.html
+
         styles.css
+
         README-Work5.md
+
     README.md
 
 ---
