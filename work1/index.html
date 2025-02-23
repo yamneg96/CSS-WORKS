@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Circles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="circle" onclick="showDetail(1)">
+            <span class="hover-text">Item 1</span>
+        </div>
+        <div class="circle" onclick="showDetail(2)">
+            <span class="hover-text">Item 2</span>
+        </div>
+        <div class="circle" onclick="showDetail(3)">
+            <span class="hover-text">Item 3</span>
+        </div>
+    </div>
+
+    <div id="detailBox" class="detail-box">
+        <span class="close-btn" onclick="hideDetail()">&times;</span>
+        <p id="detailText"></p>
+    </div>
+
+    <script>
+        function showDetail(item) {
+            let details = {
+                1: "Full details about Item 1...",
+                2: "Full details about Item 2...",
+                3: "Full details about Item 3..."
+            };
+            document.getElementById("detailText").innerText = details[item];
+            document.getElementById("detailBox").style.display = "block";
+        }
+
+        function hideDetail() {
+            document.getElementById("detailBox").style.display = "none";
+        }
+    </script>
+
+</body>
+</html>
